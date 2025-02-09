@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Love You! 😘</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="love-container">
+        <h1 class="title monthsary-title">Happy 7th Monthsary Bebe! 💖</h1>
+        <h1 class="title">I Love You! 😘</h1>
+
+        <div class="butterflies">
+            🦋🦋🦋🦋🦋
+        </div>
+
+        <!-- Floating Images for Decoration -->
+        <div class="floating-images">
+            <img src="imgs/bfly2-removebg-preview.png" class="floating" style="top: 10%; left: 10%;">
+            <img src="imgs/bfly-removebg-preview.png" class="floating" style="top: 30%; right: 15%;">
+            <img src="imgs/flower-removebg-preview.png" class="floating" style="bottom: 20%; left: 25%;">
+        </div>
+
+        <div class="image-gallery">
+            <img src="imgs/1.jpg" alt="Happy Moments">
+            <img src="imgs/2.jpg" alt="Us Together">
+            <img src="imgs/3.jpg" alt="Sweet Memories">
+        </div>
+
+        <p class="love-message">
+            My love, every moment with you is a blessing. Thank you for being the most wonderful part of my life. 
+            Your kindness, your love, and your patience mean the world to me. I promise to cherish you, support you, 
+            and always strive to be better for you. No matter what happens, you will always have me by your side. 
+            Here's to more months and years of love and happiness together. I love you endlessly! 🦋💕
+        </p>
+
+        <!-- Background Music (Hidden) -->
+        <audio id="background-music" autoplay loop>
+            <source src="yungkai-blue(Lyrics).mp3" type="audio/mpeg">
+        </audio>
+    </div>
+</body>
+</html>
